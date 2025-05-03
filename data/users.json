@@ -1,0 +1,22 @@
+[
+    {
+        "id": "45123",
+        "name": "Andres",
+        "balance": "25000"
+    },
+    {
+        "id": "45871",
+        "name": "Karen",
+        "balance": "25000"
+    },
+    {
+        "id": "45339",
+        "name": "Antonio",
+        "balance": "20000"
+    },
+    {
+        "id": 45214,
+        "name": "Maximo",
+        "balance": 2500000
+    }
+]
